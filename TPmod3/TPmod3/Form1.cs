@@ -24,14 +24,14 @@ namespace TPmod3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string inputText = textBox1.Text; // Fetch text from textBox1
+            string inputText = textBox1.Text; 
             if (inputText.ToUpper() == "Alfar")
             {
-                label1.Text = " Alfar"; // Assign text to label1's Text property
+                label1.Text = " Alfar"; 
             }
             else
             {
-                label1.Text = "HALO " + inputText; // Assign text to label1's Text property
+                label1.Text = "HALO " + inputText; 
             }
         }
 

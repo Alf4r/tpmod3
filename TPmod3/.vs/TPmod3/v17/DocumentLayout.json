@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\alf4r only\\kuliah\\KPL\\tp mod 3\\TPmod3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F97D5C6-E319-40AF-A87A-74DA2D516690}|TPmod3\\TPmod3.csproj|d:\\alf4r only\\kuliah\\kpl\\tp mod 3\\tpmod3\\tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F97D5C6-E319-40AF-A87A-74DA2D516690}|TPmod3\\TPmod3.csproj|solutionrelative:tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3F97D5C6-E319-40AF-A87A-74DA2D516690}|TPmod3\\TPmod3.csproj|D:\\alf4r only\\kuliah\\KPL\\tp mod 3\\TPmod3\\tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F97D5C6-E319-40AF-A87A-74DA2D516690}|TPmod3\\TPmod3.csproj|solutionrelative:tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F97D5C6-E319-40AF-A87A-74DA2D516690}|TPmod3\\TPmod3.csproj|d:\\alf4r only\\kuliah\\kpl\\tp mod 3\\tpmod3\\tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F97D5C6-E319-40AF-A87A-74DA2D516690}|TPmod3\\TPmod3.csproj|solutionrelative:tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F97D5C6-E319-40AF-A87A-74DA2D516690}|TPmod3\\TPmod3.csproj|d:\\alf4r only\\kuliah\\kpl\\tp mod 3\\tpmod3\\tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F97D5C6-E319-40AF-A87A-74DA2D516690}|TPmod3\\TPmod3.csproj|solutionrelative:tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,25 +21,8 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\alf4r only\\kuliah\\KPL\\tp mod 3\\TPmod3\\TPmod3\\Form1.cs",
-              "RelativeDocumentMoniker": "TPmod3\\Form1.cs",
-              "ToolTip": "D:\\alf4r only\\kuliah\\KPL\\tp mod 3\\TPmod3\\TPmod3\\Form1.cs",
-              "RelativeToolTip": "TPmod3\\Form1.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAxwCEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T19:01:12.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\alf4r only\\kuliah\\KPL\\tp mod 3\\TPmod3\\TPmod3\\Form1.cs",
               "RelativeDocumentMoniker": "TPmod3\\Form1.cs",
@@ -48,6 +31,23 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T19:00:21.183Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\alf4r only\\kuliah\\KPL\\tp mod 3\\TPmod3\\TPmod3\\Form1.cs",
+              "RelativeDocumentMoniker": "TPmod3\\Form1.cs",
+              "ToolTip": "D:\\alf4r only\\kuliah\\KPL\\tp mod 3\\TPmod3\\TPmod3\\Form1.cs",
+              "RelativeToolTip": "TPmod3\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAArwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:01:12.879Z",
+              "EditorCaption": ""
             }
           ]
         }
